@@ -1,7 +1,7 @@
 ### Welcome to my Github profile 👋
-##I am a 4th semester student at KEA computer science looking for an internship.
+## I am a 4th semester student at KEA computer science looking for an internship.
 
-##I am currently learning Python and NodeJS
+## I am currently learning Python and NodeJS
 ##
 
 <!--
