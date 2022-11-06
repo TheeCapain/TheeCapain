@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to my Github profile 👋
+##I am a 4th semester student at KEA computer science looking for an internship.
+
+##I am currently learning Python and NodeJS
+##
 
 <!--
 **TheeCapain/TheeCapain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
