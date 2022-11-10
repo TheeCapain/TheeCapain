@@ -1,5 +1,5 @@
 ### Welcome to my Github profile 👋
-## I am currently looking for an internship in a software related field, starting the 30th of january, going 10 weeks forward from that date. I am a quick learner, problem solving oriented and not afraid of going the extra mile to find a better solution.
+I am currently looking for an internship in a software related field, starting the 30th of january, going 10 weeks forward from that date. I am a quick learner, problem solving oriented and not afraid of going the extra mile to find a better solution.
 
 
 ## Fullstack:
@@ -8,18 +8,18 @@
 - Databases(MySql)
 - REST API'S
 
-##CLOUD-based solutions:
+## CLOUD-based solutions:
 - Azure(SaaS, PaaS and IaaS)
 - Heroku
 
-##System Development:
+## System Development:
 - CI/CD
 - Git & Github
 - Agile & SCRUM Workflow
 - GRASP
 - XP
 
-##IT-Security:
+## IT-Security:
 - Orginzational Security
 - Hashing
 
