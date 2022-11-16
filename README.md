@@ -6,6 +6,8 @@ I am currently looking for an internship in a software related field, starting t
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheeCapain)]([https://www.linkedin.com/in/michalanybroe](https://www.linkedin.com/in/august-hauerslev-188345122/))
 
+You can reach me at [Linkedin!]https://www.linkedin.com/in/august-hauerslev-188345122/
+
 
 ## Fullstack:
 - Frontend Development (HTML, CSS, JavaScript)
