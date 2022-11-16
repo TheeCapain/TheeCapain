@@ -2,6 +2,9 @@
 I am currently looking for an internship in a software related field, starting the 30th of january, going 10 weeks forward from that date. I am a quick learner, problem solving oriented and not afraid of going the extra mile to find a better solution.
 
 
+[![August's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheeCapain)
+
+
 ## Fullstack:
 - Frontend Development (HTML, CSS, JavaScript)
 - Backend Development (Java + Spring, Python, NodeJS)
