@@ -1,5 +1,4 @@
 ### Welcome to my Github profile 👋
-Hello my name is August
 [![August's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheeCapain)](https://www.linkedin.com/in/august-hauerslev-188345122/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheeCapain)]([https://www.linkedin.com/in/michalanybroe](https://www.linkedin.com/in/august-hauerslev-188345122/))
