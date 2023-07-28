@@ -23,12 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheeCapain" alt="august" /></p>
 
-[![August's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheeCapain)](https://www.linkedin.com/in/august-hauerslev-188345122/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheeCapain)
-
-You can reach me at [Linkedin!](https://www.linkedin.com/in/august-hauerslev-188345122/)
-
 
 ## Fullstack:
 - Frontend Development (HTML, CSS, JavaScript, Svelte)
