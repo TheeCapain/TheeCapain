@@ -3,7 +3,7 @@
 <h1 align="center">Hello there👋, I'm August, welcome to my Github</h1>
 <h3 align="center">I recently finished studying computer science at kea, and am now looking for a place to learn more</h3>
 
-- 🔭 I’m currently working on [Hello](https://github.com/TheeCapain/TheDareGame)
+- 🔭 I’m currently working on [React Project](https://github.com/TheeCapain/TheDareGame)
 
 - 🌱 I’m currently learning **React**
 
