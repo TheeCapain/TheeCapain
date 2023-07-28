@@ -9,8 +9,6 @@
 
 - 📫 Reach me at <a href="https://www.linkedin.com/in/august-hauerslev-188345122/">LinkedIn</a>
 
-- ⚡ Inspirational Quote: **"Sucking at sumthin’ is the first step towards being sorta good at something."** 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/august-hauerslev-188345122/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="August" height="30" width="40" /></a>
