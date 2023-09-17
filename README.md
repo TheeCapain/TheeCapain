@@ -5,7 +5,7 @@
 
 - 👀 I am currently looking for a fulltime position as a fullstack developer
 
-- 🔭 I’m currently working on [React Project](https://github.com/TheeCapain/TheDareGame)
+- 🔭 I’m currently working on [Urban challenger](https://github.com/TheeCapain/UrbanChallengeNative)
 
 - 🌱 I’m currently learning **React and React Native**
 
