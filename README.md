@@ -1,8 +1,6 @@
 ### Welcome to my Github profile 👋
 
 <h1 align="center">Hello there👋, I'm August, welcome to my Github</h1>
-<h3 align="center">I recently finished studying computer science at kea, and am now looking for a place to learn more</h3>
-
 - 👀 I am currently looking for a fulltime position as a Software developer
 
 - 🔭 I’m currently working on [Urban challenger](https://github.com/TheeCapain/UrbanChallengeNative)
