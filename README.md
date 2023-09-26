@@ -46,6 +46,7 @@
 ## CLOUD-based solutions:
 - Azure(SaaS, PaaS and IaaS)
 - Heroku
+- Supabase
 
 ## System Development:
 - CI/CD
